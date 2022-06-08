@@ -1,2 +1,2 @@
-# tonics-track-modules
+# Tonics Track Modules
 Contains Tonic Track Modules Releases
